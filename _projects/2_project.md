@@ -5,5 +5,5 @@ description:
 img: assets/img/3.jpg
 importance: 1
 category: work in progress
-giscus_comments: true
+giscus_comments: false
 ---
