@@ -22,11 +22,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 Welcome!
+
 I am a historian of economics (PhD) focusing on growth economics, the economics of innovation, and futures studies.
-My work combines qualitative and quantitative approaches, including text mining and scientometrics, to explore the evolution of economic ideas and knowledge production.
+
+My work combines qualitative and quantitative approaches, including text mining and scientometrics, to explore the evolution of economic ideas and the production of economic knowledge.
+
 I am currently an Associate Professor of Economics at ESSCA School of Management.
+
 I also serve as Academic Head of the Master in Management through Executive Education at ESSCA.
+
 You can find more info on my previous positions here
+
 You can reach me at: matthieu.ballandonne[at]essca.fr
 
 
