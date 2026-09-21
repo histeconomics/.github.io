@@ -1,9 +1,11 @@
 ---
 layout: page
-title: conferences
-subtitle: latest conferences
+title: latest conferences
+display_categories: false
+subtitle: 
 permalink: /conferences/
 nav: true
+nav_title: conferences
 nav_order: 4
 ---
 <style>
