@@ -21,6 +21,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<div style="font-family: 'Courier New', Courier, monospace; font-size: 0.95rem; line-height: 1.6;">
 Welcome!
 
 I am a historian of economics (PhD) focusing on growth economics, the economics of innovation, and futures studies.
@@ -34,5 +36,5 @@ I also serve as Academic Head of the Master in Management through Executive Educ
 You can find more info on my previous positions here
 
 You can reach me at: matthieu.ballandonne[at]essca.fr
-
+</div>
 
