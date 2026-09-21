@@ -25,23 +25,29 @@ latest_posts:
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
-  .post article {
-    font-family: 'Special Elite', cursive !important;
-    font-size: 1.05rem;
-    line-height: 1.6;
-  }
-</style>
-<style>
-  /* 1. Fond papier jauni/vintage */
+  /* 1. Apparence de la feuille papier vintage */
   .post {
     background-color: #fbf5e6;
     background-image: radial-gradient(#e0d6be 1px, transparent 0);
     background-size: 20px 20px;
     padding: 2rem;
     border-radius: 4px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
     color: #2b2b2b;
   }
+
+  /* 2. Police machine à écrire appliquée à l'ensemble du texte et des titres */
+  .post, 
+  .post article, 
+  .post p, 
+  .post h1, 
+  .post h2, 
+  .post h3 {
+    font-family: 'Special Elite', cursive, monospace !important;
+    font-size: 1.05rem;
+    line-height: 1.6;
+  }
+</style>
 
 Welcome!
 
