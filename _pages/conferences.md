@@ -14,7 +14,7 @@ nav_order: 4
     line-height: 1.6;
   }
 </style>
-<ol reversed style="padding-left: 1.2rem; font-family: 'Space Mono', monospace; font-size: 0.9rem; line-height: 1.6;">
+<ol reversed style="padding-left: 1.2rem; font-family: 'Space Mono', monospace; font-size: 1.05rem; line-height: 1.6;">
 
   <li style="margin-bottom: 1.5rem;">
     BALLANDONNE, M. (2026). “Two applications of RPYS: Ecological Economics and Walter Bagehot”. <em>Invited for a special session on RPYS, Science and Technology Indicators Conference</em>. Belgium, Antwerp.
