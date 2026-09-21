@@ -1,13 +1,14 @@
 ---
 layout: page
-title: latest conferences
-display_categories: false
-subtitle: 
+title: conferences
 permalink: /conferences/
 nav: true
 nav_title: conferences
 nav_order: 4
+display_title: false
 ---
+
+# latest conferences
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
