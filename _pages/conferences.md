@@ -7,6 +7,11 @@ nav_title: conferences
 nav_order: 4
 display_title: false
 ---
+<style>
+  .post-header .post-title {
+    display: none;
+  }
+</style>
 
 # latest conferences
 <style>
