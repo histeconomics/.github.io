@@ -31,18 +31,6 @@ latest_posts:
     line-height: 1.6;
   }
 </style>
-
-
-
----
-layout: page
-title: conferences
-permalink: /conferences/
-nav: true
-nav_title: conferences
-nav_order: 4
----
-
 <style>
   /* 1. Fond papier jauni/vintage */
   .post {
@@ -54,12 +42,6 @@ nav_order: 4
     box-shadow: 0 4px 10px rgba(0,0,0,0.08);
     color: #2b2b2b;
   }
-
-  /* 2. Typographie style machine à écrire (Courier New) */
-  .post, .post h1, .post li, .post p {
-    font-family: "Courier New", Courier, monospace !important;
-  }
-
 
 Welcome!
 
