@@ -1,6 +1,7 @@
 ---
 layout: page
-title: latest conferences
+title: conferences
+subtitle: latest conferences
 permalink: /conferences/
 nav: true
 nav_order: 4
