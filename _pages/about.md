@@ -32,6 +32,35 @@ latest_posts:
   }
 </style>
 
+
+
+---
+layout: page
+title: conferences
+permalink: /conferences/
+nav: true
+nav_title: conferences
+nav_order: 4
+---
+
+<style>
+  /* 1. Fond papier jauni/vintage */
+  .post {
+    background-color: #fbf5e6;
+    background-image: radial-gradient(#e0d6be 1px, transparent 0);
+    background-size: 20px 20px;
+    padding: 2rem;
+    border-radius: 4px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    color: #2b2b2b;
+  }
+
+  /* 2. Typographie style machine à écrire (Courier New) */
+  .post, .post h1, .post li, .post p {
+    font-family: "Courier New", Courier, monospace !important;
+  }
+
+
 Welcome!
 
 I am a historian of economics (PhD) focusing on growth economics, the economics of innovation, and futures studies.
