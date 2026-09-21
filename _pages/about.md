@@ -27,7 +27,7 @@ latest_posts:
 
   .post article {
     font-family: 'Special Elite', cursive !important;
-    font-size: 0.95rem;
+    font-size: 1.05rem;
     line-height: 1.6;
   }
 </style>
