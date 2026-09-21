@@ -42,6 +42,6 @@ I am currently an Associate Professor of Economics at ESSCA School of Management
 
 I also serve as Academic Head of the Master in Management through Executive Education at ESSCA.
 
-You can find more info on my previous positions here
+You can find more info on my previous positions [here](https://www.essca.eu/app/uploads/academ/resumes/cv_1608_fr.pdf)
 
 You can reach me at: matthieu.ballandonne[at]essca.fr
