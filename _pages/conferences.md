@@ -33,7 +33,7 @@ nav_order: 4
   </li>
 
   <li style="margin-bottom: 1.5rem;">
-    BALLANDONNE, M. et CERSOSIMO, I. (2023). “A quantitative analysis of recent academic research on Walter Bagehot”. Dans: <em>Walter Bagehot and Lombard Street (1873): A 150-Year Retrospective</em>. Université de Bretagne Sud. France, Vannes.
+    BALLANDONNE, M. et CERSOSIMO, I. (2023). “A quantitative analysis of recent academic research on Walter Bagehot”. <em>Walter Bagehot and Lombard Street (1873): A 150-Year Retrospective</em>. Université de Bretagne Sud. France, Vannes.
   </li>
 
 </ol>
