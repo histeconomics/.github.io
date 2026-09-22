@@ -5,11 +5,16 @@ permalink: /conferences/
 nav: true
 nav_title: conferences
 nav_order: 4
-display_title: false
 ---
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+  /* Masquer le titre automatique d'al-folio */
+  .post > header,
+  .post-header {
+    display: none !important;
+  }
 
   /* --- MODE CLAIR (Thème Papier Jauni) --- */
   .post {
