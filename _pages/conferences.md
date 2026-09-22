@@ -7,6 +7,7 @@ nav_title: conferences
 nav_order: 4
 display_title: false
 ---
+
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
@@ -53,6 +54,8 @@ display_title: false
     color: #e0e0e0 !important;
   }
 </style>
+
+latest conferences
 
 <ol reversed style="padding-left: 1.2rem; font-family: 'Space Mono', monospace; font-size: 1.05rem; line-height: 1.6;">
 
